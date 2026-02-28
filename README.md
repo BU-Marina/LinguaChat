@@ -1,2 +1,3 @@
-# backend
-Rest API for LinguaChat
+# Rest API for LinguaChat
+
+Платформа для поиска собеседника
